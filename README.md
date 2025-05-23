@@ -1,6 +1,6 @@
-## Ren — (cause I’m not Kylo Ren)
+## Hey 👋 
 
-Builds fast systems. Ships clean code.  
+
 Go. TypeScript.  
 // sometimes: Rust, Elixir, Python
 
