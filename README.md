@@ -1,16 +1,14 @@
-## Hi there 👋
+## Ren — (cause I’m not Kylo Ren)
 
-<!--
-**Bethel-nz/Bethel-nz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Builds fast systems. Ships clean code.  
+Go. TypeScript. Infra.  
+// sometimes: Rust, Elixir, Python
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ current focus: auth infra, distributed systems, DX tooling  
+📫 reach me: [definitely not my email](mailto:nzekeabethe@outlook.com) • [@bethel_nz](https://x.com/bethel_nz)  
+😄 fun fact: I’m not Kylo Ren. Just saying.
+
+---
