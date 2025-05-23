@@ -8,7 +8,7 @@ Go. TypeScript. Infra.
 ---
 
 🛠️ current focus: auth infra, distributed systems, DX tooling  
-📫 reach me: [definitely not my email](mailto:nzekeabethe@outlook.com) • [@bethel_nz](https://x.com/bethel_nz)  
+📫 reach me: [definitely not my email](mailto:nzekeabethel@outlook.com) • [@bethel_nz](https://x.com/bethel_nz)  
 😄 fun fact: I’m not Kylo Ren. Just saying.
 
 ---
