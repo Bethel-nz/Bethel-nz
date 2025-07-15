@@ -3,6 +3,7 @@ Software engineer building distributed systems, dev tools, and fullstack applica
 
 **Languages:** TypeScript, Go  
 **Sometimes:** Rust, Elixir, Python
+**UI:** ReactJs, HTMX
 
 ---
 🛠️ **current focus:** distributed systems, DX tooling, sync engines and well just about any interesting topic  
